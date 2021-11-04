@@ -2,7 +2,7 @@ const express = require('express')
 
 const server = express()
 
-const port = process.env.port||8000
+const port = process.env.PORT||8000
 
 // server.get("/", (req, res)=>{
 //     console.log("8000 was accessed")
