@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my web portfolio server",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/NorVirae"
+  },
+  "keywords": [
+    "virus"
+  ],
+  "author": "Norbert Mba Frank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
