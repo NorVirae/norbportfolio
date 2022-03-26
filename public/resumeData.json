@@ -157,14 +157,14 @@
         "title":"Portfolio site",
         "category":"A React based portfolio website for me",
         "image":"04.png",
-        "url":"norbertmbafrank.herokuapp.com"
+        "url":"https://norbertmbafrank.netlify.app"
       },
 
       {
         "title":"Cloud Service System - upload large files, stream track files(checkout the cool project on github)",
         "category":"An Ecommerce Online shop",
         "image":"clouds.png",
-        "url":"https://www.fischela.com"
+        "url":"https://github.com/NorVirae/cloudservice-upload-track-stream.git"
       },
 
      
@@ -172,20 +172,20 @@
         "title":"Blochain Wallet with custom Token",
         "category":"An Ecommerce Online shop",
         "image":"wallet.png",
-        "url":"https://www.liqair.art"
+        "url":"https://github.com/NorVirae/fadrPay.git"
       },
 
       {
         "title":"A payment system with paystack by stripe",
         "category":"An Ecommerce Online shop",
         "image":"paystack.png",
-        "url":"https://www.liqair.art"
+        "url":"https://paystack-pay-demo.netlify.app/"
       },
       {
         "title":"nHub blogger",
         "category":"A blog web app i team worked with my fellow interns at nHub",
         "image":"03.png",
-        "url":"nhubblogger.herokuapp.com"
+        "url":"https://nhubfoundation.org/blog/"
       }
       
     ]
