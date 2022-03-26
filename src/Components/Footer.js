@@ -27,7 +27,7 @@ class Footer extends Component {
                 <li>
                   Design by{" Norbert frank Mba"}
                   <a title="Virae" href="https://www.github.com/NorVirae">
-                    NorVirae
+                    Vyra
                   </a>
                 </li>
               </ul>
